@@ -1,6 +1,6 @@
 ---
 title: "SMART HOMES"
-date: 19-09-2021
+date: 20-09-2021
 categories:
 ---
 # SMART HOME
